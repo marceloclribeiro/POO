@@ -1,0 +1,12 @@
+﻿Petão;Plástico;450;TRUE;500
+Sacolástico;Plástico;400;TRUE;400
+Isoterman;Plástico;100;TRUE;350
+Papel Bolado;Papel;6;TRUE;550
+Caixolão;Papel;6;TRUE;300
+Nerd Paper;Papel;2;TRUE;150
+Frígido;Metal;500;TRUE;400
+Mr. Tampinha;Metal;300;TRUE;350
+Mc Lata;Metal;450;TRUE;450
+Taça da Margura;Vidro;1000000;TRUE;600
+Elétrico;Vidro;1000000;FALSE;850
+Sr. Vidro;Vidro;1000000;TRUE;800
